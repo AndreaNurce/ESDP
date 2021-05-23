@@ -1,0 +1,11 @@
+1/2. Perderisa krijimi i 20000 objekteve dhe me pas renderizimi i tyre kerkon goxha kohe 
+dhe e ngadaleson loadimin e aplikacionit nje zgjidhje eshte  te krijojme aq objekte sa 
+nje user mund te menaxhoje.Nese useri do me shume data atere ne gjenrojme te njejten sasi
+si ne fillim duke e nisru aty ky e ndaluam heren e fundit. Arrayn e ri qe marin e bashkojme me arrayn ekzistente.
+Me ane te kesaj zgjidhjeje duke pasur parasysh edhe permasat e aplikacionit eshte pothuajse 0 kohe lodimi.
+
+
+3. Menyre tjeter mund te ishte krijimi i nje intervali qe ekzekutohet cdo p.sh 3s dhe duke krijuar objektet e reja dhe duke ja
+  bashkangjitur ato   arrays  ekzistente.
+
+
